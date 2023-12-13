@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/proyecto-centro-cultural/static/css/main.d0999952.css",
+    "main.js": "/proyecto-centro-cultural/static/js/main.d2f77366.js",
+    "static/js/787.71cb963a.chunk.js": "/proyecto-centro-cultural/static/js/787.71cb963a.chunk.js",
+    "static/media/cent-bol-1.jpg": "/proyecto-centro-cultural/static/media/cent-bol-1.618985ddc77fad7e642a.jpg",
+    "static/media/cent-cul-5-img-2.jpg": "/proyecto-centro-cultural/static/media/cent-cul-5-img-2.20d78f208ac2d9601bf7.jpg",
+    "static/media/cent-cul-4-img-1.jpg": "/proyecto-centro-cultural/static/media/cent-cul-4-img-1.48acf60922192e5aeca1.jpg",
+    "static/media/cent-cul-4-img-3.png": "/proyecto-centro-cultural/static/media/cent-cul-4-img-3.32060f403fd65116e3a3.png",
+    "static/media/cent-cul-5-img-3.jpg": "/proyecto-centro-cultural/static/media/cent-cul-5-img-3.882df4b1230a0eef9a3d.jpg",
+    "static/media/cent-cul-def-1.jpg": "/proyecto-centro-cultural/static/media/cent-cul-def-1.ec3c19ef57fd3853e618.jpg",
+    "static/media/cent-cul-2-img-2.jpg": "/proyecto-centro-cultural/static/media/cent-cul-2-img-2.005c08e5bdd2213a7086.jpg",
+    "static/media/cent-cul-2-img-3.jpg": "/proyecto-centro-cultural/static/media/cent-cul-2-img-3.a7bca5bd2212d0da61b4.jpg",
+    "static/media/cent-cul-6-img-1.jpg": "/proyecto-centro-cultural/static/media/cent-cul-6-img-1.26c883edbb8eb5b966b9.jpg",
+    "static/media/cent-cul-3-img-3.jpg": "/proyecto-centro-cultural/static/media/cent-cul-3-img-3.a34d438c143a37aa100a.jpg",
+    "static/media/cent-cul-3-img-1.jpg": "/proyecto-centro-cultural/static/media/cent-cul-3-img-1.12605e5264369786e780.jpg",
+    "static/media/cent-cul-6-img-2.jpg": "/proyecto-centro-cultural/static/media/cent-cul-6-img-2.7c4ba9fc8f9584f765cf.jpg",
+    "static/media/perfil.jpg": "/proyecto-centro-cultural/static/media/perfil.dde3ce2f34b691e2fb69.jpg",
+    "static/media/cent-cul-6-img-3.jpg": "/proyecto-centro-cultural/static/media/cent-cul-6-img-3.255ddece0ee4964f7480.jpg",
+    "static/media/cent-cul-3-img-2.jpg": "/proyecto-centro-cultural/static/media/cent-cul-3-img-2.ff22b91cd47cdc2e2944.jpg",
+    "static/media/cent-cul-5-img-1.jpg": "/proyecto-centro-cultural/static/media/cent-cul-5-img-1.107134a2200bd97db033.jpg",
+    "static/media/cent-cul-img-1.jpg": "/proyecto-centro-cultural/static/media/cent-cul-img-1.d7254862f94e8f1c246e.jpg",
+    "static/media/cent-cul-img-2.jpg": "/proyecto-centro-cultural/static/media/cent-cul-img-2.dc5acd0d45f3679afe8a.jpg",
+    "static/media/cent-cul-2-img-1.jpg": "/proyecto-centro-cultural/static/media/cent-cul-2-img-1.aa842a186ce5a1814417.jpg",
+    "static/media/cent-cul-img-3.jpg": "/proyecto-centro-cultural/static/media/cent-cul-img-3.497d08c3077a2bc54729.jpg",
+    "static/media/cent-bol-2.jpg": "/proyecto-centro-cultural/static/media/cent-bol-2.555c4a6b88916787abe3.jpg",
+    "static/media/cent-cul-4-img-2.jpg": "/proyecto-centro-cultural/static/media/cent-cul-4-img-2.356e02f012bb48c66212.jpg",
+    "index.html": "/proyecto-centro-cultural/index.html",
+    "main.d0999952.css.map": "/proyecto-centro-cultural/static/css/main.d0999952.css.map",
+    "main.d2f77366.js.map": "/proyecto-centro-cultural/static/js/main.d2f77366.js.map",
+    "787.71cb963a.chunk.js.map": "/proyecto-centro-cultural/static/js/787.71cb963a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0999952.css",
+    "static/js/main.d2f77366.js"
+  ]
+}
